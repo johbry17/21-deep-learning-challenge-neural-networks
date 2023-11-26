@@ -23,6 +23,10 @@ Run the `module-21-neural-network-original-model.ipynb` and the `module-21-neura
 
 ## Gallery
 
+Optimized Model Results:
+
+![Optimized Model Results](./images/optimized_results.png)
+
 Original Model Loss:
 
 ![Original Model Loss](./images/original_loss.png)
