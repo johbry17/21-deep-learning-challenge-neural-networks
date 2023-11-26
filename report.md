@@ -61,3 +61,28 @@ Yes, the final optimized model acheives an accuracy of about 79%.
 
 ## Results
 
+As you can see, model performance improved significantly between the original and optimized model:
+
+Optimized MOdel Results:
+
+![Optimized Model Results](./images/optimized_results.png)
+
+Original Model Results:
+
+![Original Model Results](./images/original_results.png)
+
+Optimized Model Loss:
+
+![Optimized Model Loss](./images/optimized_loss.png)
+
+Original Model Loss:
+
+![Original Model Loss](./images/original_loss.png)
+
+Optimized Model Accuracy:
+
+![Optimized Model Accuracy](./images/optimized_accuracy.png)
+
+Original Model Accuracy:
+
+![Original Model Accuracy](./images/original_accuracy.png)
